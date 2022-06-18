@@ -6,9 +6,11 @@
 
 
 
+##### setting.json範例
+
 ```json
 {
-	"wait":1,   
+	"wait":1,   //每次發送請求等待時間(單位為秒)
 	"stuID": "你的學號",   
 	"password": "選課系統密碼",  
 	"courseInfo": {
